@@ -1,2 +1,3 @@
 # Home
-Repository for all the work done from home :)
+Repository for all my projects.
+
